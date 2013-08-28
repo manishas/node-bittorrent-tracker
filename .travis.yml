@@ -8,4 +8,4 @@ script: npm run-script test
 
 notifications:
   email:
-    - tomaz+travisci@tomaz.me
+    - manishas@qhode.com
